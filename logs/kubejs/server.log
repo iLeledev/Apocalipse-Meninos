@@ -1,0 +1,102 @@
+[00:47:32] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[00:47:32] [INIT] Loaded plugins:
+[00:47:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:47:32] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:47:32] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[00:47:32] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[00:47:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[00:47:32] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[00:47:32] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[00:47:32] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:47:32] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[00:47:32] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[00:47:32] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[00:47:32] [INFO] functions/flyer_usage.js#2: Loaded flyer_usage.js
+[00:47:32] [INFO] Loaded script server_scripts:functions/flyer_usage.js in 0.0 s
+[00:47:32] [INFO] functions/gasmask_logics.js#2: Loaded gasmask_logics.js
+[00:47:32] [INFO] Loaded script server_scripts:functions/gasmask_logics.js in 0.0 s
+[00:47:32] [INFO] functions/horde_beacon.js#2: Loaded horde_beacon.js
+[00:47:32] [INFO] Loaded script server_scripts:functions/horde_beacon.js in 0.0 s
+[00:47:32] [INFO] functions/horde_calendar.js#2: Loaded horde_calendar.js
+[00:47:32] [INFO] Loaded script server_scripts:functions/horde_calendar.js in 0.0 s
+[00:47:32] [INFO] functions/mining_mobs.js#2: Loaded mining mobs.js
+[00:47:32] [INFO] Loaded script server_scripts:functions/mining_mobs.js in 0.0 s
+[00:47:32] [INFO] functions/skill_guide_books.js#2: Loaded skill_guide_book.js
+[00:47:32] [INFO] Loaded script server_scripts:functions/skill_guide_books.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:functions/spawn_car_commands.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:functions/spawn_commands.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:functions/spawn_gun_commands.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:functions/spawn_npc_commands.js in 0.001 s
+[00:47:32] [INFO] functions/survivor_radar.js#2: Loaded survivor radar.js
+[00:47:32] [INFO] Loaded script server_scripts:functions/survivor_radar.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/apocalypsenow/food.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/apocalypsenow/items.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/ammoboxes.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/arc_furnace_processing.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/armor.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/armor_parts.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/bullets.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/cures.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/extreme_reactor.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/gun_parts.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/item.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/material.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/ore_processing.js in 0.002 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/repair.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_axes.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_baton.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_bats.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_fists.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_hammer.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_hoe.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_katana.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_knives.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_mace.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_machetes.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_misc.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_shield.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_shovel.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/deceasedcraft/weapon_sword.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/immersive_aircraft/items.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/legendarysurvivaloverhaul/medical.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/pipez/items.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/refinedstorage/items.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/refueled/bodies.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/refueled/cars.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/refueled/items.js in 0.002 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/securitycraft/items.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/simpleplanes/items.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/sophisticated_backpack/items.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:recipes/wormhole/items.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:removal/items.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:removal/mods.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/armor.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/bullets.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/bullet_casings.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/bullet_molds.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/car_parts.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/cities.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/diet.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/drivable_blocks.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/duplicate_items.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/fluids.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/food_largexp.js in 0.001 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/food_lowxp.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/food_mediumxp.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/lostcities.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/melee_weapons.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/misc.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/mre.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/non_movable.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/repairable_armors.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/repairable_weapons.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/rubber_cables.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/scrappable.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/securitycraft.js in 0.0 s
+[00:47:32] [INFO] Loaded script server_scripts:tags/tag_fixes.js in 0.0 s
+[00:47:32] [INFO] Loaded 77/77 KubeJS server scripts in 0.031 s with 0 errors and 0 warnings
+[00:47:32] [INFO] Scripts loaded
+[00:47:32] [INFO] Initializing recipe event...
+[00:47:32] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[00:47:32] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[00:47:39] [INFO] Server resource reload complete!
